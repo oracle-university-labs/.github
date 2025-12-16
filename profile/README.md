@@ -1,4 +1,3 @@
-## Oracle University on GitHub
 
 ![Oracle University Logo](https://raw.githubusercontent.com/oracle-university-labs/.github/main/profile/Oracle_University_rgb.png "Oracle University on GitHub")
 
