@@ -1,4 +1,4 @@
-![Oracle University Logo](https://raw.githubusercontent.com/oracle/.github/main/profile/Oracle_University_rgb.png "Oracle University Labs")
+![Oracle University Logo](https://raw.githubusercontent.com/oracle-university-labs/.github/main/profile/Oracle_University_rgb.png "Oracle University Labs")
 
 # Oracle University Labs
 
